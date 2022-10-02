@@ -1,22 +1,13 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Invertí en la próxima superestrella",
+    "paragraph": "Convertite en sponsor de promesas locales y obtené beneficios con el crecimiento de su carrera."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "Patrocima es una plataforma que conecta a personas con un gran talento (artistas, deportistas, atletas, influencers, youtubers, etc) con aquellas que quieren impulsar su carrera con un compromiso financiero.",
+    "paragraph2": "Nuestro objetivo es permitir que cada talento con gran potencial se financie y logre llevar su carrera al máximo. Por otro lado, el usuario se beneficiará con un porcentaje pequeño de sus ganancias futuras.",
+    "paragraph3": "Hay miles de talentosos que tienen la oportunidad de lograrlo, pero carecen de capital y red.",
+    "paragraph4": "Juntos, podemos potenciar su crecimiento."
   },
   "Gallery": [
     {
@@ -67,34 +58,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "¿Que es un token?",
+      "text": "Un token es la representación digital en el mundo Blockchain de algo que tiene valor dentro de un contexto. Podriamos imaginarlo en este escenario como comprar acciones de tu artista favorito."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "¿Como funciona un token?",
+      "text": "A medida que el talento reciba ganancias vas a participar por un porcentaje proporcional a la cantidad de tokens que poseas. Cada talento va a tener un numero limitado de tokens."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "¿Quien puede comprar el token? (Invertir)",
+      "text": "Cualquier persona mayor de 18 años que tenga una cuenta bancaria o de binance. Puedes comprarlo mediante crypto o de la manera tradicional."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "¿Que ocurre si me arrepiento de haber comprado el token?",
+      "text": "Puedes venderlo en el mercado de tokens. Los mismos van a subir o bajar su valor de acuerdo a la oferta y la demanda."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "¿Como puedo ver si el talento tiene exito?",
+      "text": "Principalmente tendras acceso a visibilidad de las finanzas de tu talento que debera llevar un registro de sus ingresos laborales, pero no podras divulgar su información."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "¿Que ocurre si el talento fracasa?",
+      "text": "Es parte del riesgo, es una inversion de riesgo. Van a haber personas exitosas y personas que no tanto. No necesariamente vas a necesitar que sea una superestrella para festejar sus ganancias."
     }
   ],
   "Testimonials": [
@@ -112,49 +103,29 @@
       "img": "img/testimonials/03.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
     }
   ],
   "Team": [
     {
+      "img": "img/team/03.jpg",
+      "name": "Sol Almagro",
+      "job": "CMO & Co-Founder"
+    },
+    {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Vicente Robirosa",
+      "job": "CEO & Co-Founder"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Oliver Balfour",
+      "job": "CTO & Co-Founder"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Recoleta, Buenos Aires, Argentina",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "info@patrocima.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +133,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Acuerdo",
+      "text": "Trabajamos con el talento para formular un acuerdo justo de reparto de ingresos."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "TalenToken",
+      "text": "Los términos del acuerdo junto con los detalles sobre el talento se anuncian en la plataforma y se emiten los token (similar a las acciones de bolsa)."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Comunidad",
+      "text": "Los patrocinadores tienen la oportunidad de invertir comprando el token del talento, recibiendo un contrato que estipula los términos."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Éxito",
+      "text": "Cuando el talento se convierte en profesional, comparte una parte de sus ganancias con los patrocinadores."
     }
   ]
 }
