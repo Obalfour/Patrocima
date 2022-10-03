@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Patrocima/static/css/main.7c90efc5.chunk.css",
-    "main.js": "/Patrocima/static/js/main.905e0dc2.chunk.js",
-    "main.js.map": "/Patrocima/static/js/main.905e0dc2.chunk.js.map",
+    "main.js": "/Patrocima/static/js/main.c1313383.chunk.js",
+    "main.js.map": "/Patrocima/static/js/main.c1313383.chunk.js.map",
     "runtime-main.js": "/Patrocima/static/js/runtime-main.a71736c2.js",
     "runtime-main.js.map": "/Patrocima/static/js/runtime-main.a71736c2.js.map",
     "static/js/2.242191d3.chunk.js": "/Patrocima/static/js/2.242191d3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a71736c2.js",
     "static/js/2.242191d3.chunk.js",
     "static/css/main.7c90efc5.chunk.css",
-    "static/js/main.905e0dc2.chunk.js"
+    "static/js/main.c1313383.chunk.js"
   ]
 }
