@@ -86,8 +86,7 @@ hr {
   text-transform: uppercase;
 }
 #menu img.logo{
-  height: 22px;
-  margin-right: 10px;
+  height: 40px;
 }
 @media only screen and (max-width: 750px) {
   #menu img.logo{
@@ -269,7 +268,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  padding: 50px 0;
+  padding: 50px 0 0px;
 }
 #about h3 {
   font-size: 22px;
@@ -316,7 +315,7 @@ header .intro-text {
 }
 /* Services Section */
 #services {
-  padding: 100px 0;
+  padding: 50px 0;
   background: linear-gradient(to right, #e93a4c 0%, #ea6b7d 100%);
   color: #fff;
 }
@@ -493,6 +492,7 @@ header .intro-text {
 }
 #team .team-img {
   width: 240px;
+  border-radius: 50%;
 }
 #team .thumbnail {
   background: transparent;
@@ -504,7 +504,7 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-  padding: 100px 0 60px;
+  padding: 50px 0 0px;
   background: linear-gradient(to right, #e93a4c 0%, #ea6b7d 100%);
   color: rgba(255, 255, 255, 0.75);
 }
